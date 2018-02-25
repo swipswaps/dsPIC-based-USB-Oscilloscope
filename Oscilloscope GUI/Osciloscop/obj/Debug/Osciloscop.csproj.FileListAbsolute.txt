@@ -1,0 +1,9 @@
+C:\Users\VIad\Desktop\osciloscop\04_Software\PC\Osciloscop\Osciloscop\bin\Debug\Osciloscop.exe.config
+C:\Users\VIad\Desktop\osciloscop\04_Software\PC\Osciloscop\Osciloscop\bin\Debug\Osciloscop.exe
+C:\Users\VIad\Desktop\osciloscop\04_Software\PC\Osciloscop\Osciloscop\bin\Debug\Osciloscop.pdb
+C:\Users\VIad\Desktop\osciloscop\04_Software\PC\Osciloscop\Osciloscop\obj\Debug\Osciloscop.csprojResolveAssemblyReference.cache
+C:\Users\VIad\Desktop\osciloscop\04_Software\PC\Osciloscop\Osciloscop\obj\Debug\Osciloscop.Form1.resources
+C:\Users\VIad\Desktop\osciloscop\04_Software\PC\Osciloscop\Osciloscop\obj\Debug\Osciloscop.Properties.Resources.resources
+C:\Users\VIad\Desktop\osciloscop\04_Software\PC\Osciloscop\Osciloscop\obj\Debug\Osciloscop.csproj.GenerateResource.Cache
+C:\Users\VIad\Desktop\osciloscop\04_Software\PC\Osciloscop\Osciloscop\obj\Debug\Osciloscop.exe
+C:\Users\VIad\Desktop\osciloscop\04_Software\PC\Osciloscop\Osciloscop\obj\Debug\Osciloscop.pdb
